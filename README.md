@@ -25,3 +25,4 @@ Currently, two official plugins are available:
 - 14 - Adicionados os componentes Menu e Rodape no App.jsx junto ao Outlet
 - 15 - Criação do arquivo listaProdutos.js
 - 16 - Carregando os dados da lista na página Produtos.jsx
+- 17 - Configurando EditarProduto.jsx para receber os dados da lista usando o useParams e useNavigate.
