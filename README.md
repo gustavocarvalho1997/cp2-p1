@@ -24,3 +24,4 @@ Currently, two official plugins are available:
 - 13 - Estilização do nav, main e footer no App.css
 - 14 - Adicionados os componentes Menu e Rodape no App.jsx junto ao Outlet
 - 15 - Criação do arquivo listaProdutos.js
+- 16 - Carregando os dados da lista na página Produtos.jsx
