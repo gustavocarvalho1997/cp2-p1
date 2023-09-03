@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 - 2 - Deploy Vercel
 - 3 - Feito o vínculo entre Projeto Vercel e seu respectivo repositório Github
 - 4 - Instalação do react-router-dom
+- 5 - Criação da pasta routes e suas respectivas rotas (EditarProdutos, Home, Error e Produtos)
