@@ -21,3 +21,4 @@ Currently, two official plugins are available:
 - 10 - Criação da pasta components
 - 11 - Criação do component Menu.jsx
 - 12 - Criação do component Rodape.jsx
+- 13 - Estilização do nav, main e footer no App.css
