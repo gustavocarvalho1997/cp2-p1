@@ -16,3 +16,5 @@ Currently, two official plugins are available:
 - 5 - Criação da pasta routes e suas respectivas rotas (EditarProdutos, Home, Error e Produtos)
 - 6 - Realizado os imports do createBrowserRouter e RouterProvider e as rotas no main.jsx
 - 7 - Configuração das rotas no main.jsx utilizando o createBrowserRouter e informando seus paths e adicionando o RouterProvider
+- 8 - Limpeza do arquivo App.jsx
+- 9 - Feito o import do Outlet e adicionado no retorno da função do arquivo App.jsx
