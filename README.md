@@ -20,3 +20,4 @@ Currently, two official plugins are available:
 - 9 - Feito o import do Outlet e adicionado no retorno da função do arquivo App.jsx
 - 10 - Criação da pasta components
 - 11 - Criação do component Menu.jsx
+- 12 - Criação do component Rodape.jsx
