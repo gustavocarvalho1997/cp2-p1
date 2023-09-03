@@ -26,3 +26,4 @@ Currently, two official plugins are available:
 - 15 - Criação do arquivo listaProdutos.js
 - 16 - Carregando os dados da lista na página Produtos.jsx
 - 17 - Configurando EditarProduto.jsx para receber os dados da lista usando o useParams e useNavigate.
+- 18 - Feito import do Navigate no main.jsx e adicionado seu respectivo path
