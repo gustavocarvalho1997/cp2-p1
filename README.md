@@ -12,3 +12,18 @@ Currently, two official plugins are available:
 - 1 - Criado projeto base
 - 2 - Deploy Vercel
 - 3 - Feito o vínculo entre Projeto Vercel e seu respectivo repositório Github
+- 4 - Instalação do react-router-dom
+- 5 - Criação da pasta routes e suas respectivas rotas (EditarProdutos, Home, Error e Produtos)
+- 6 - Realizado os imports do createBrowserRouter e RouterProvider e as rotas no main.jsx
+- 7 - Configuração das rotas no main.jsx utilizando o createBrowserRouter e informando seus paths e adicionando o RouterProvider
+- 8 - Limpeza do arquivo App.jsx
+- 9 - Feito o import do Outlet e adicionado no retorno da função do arquivo App.jsx
+- 10 - Criação da pasta components
+- 11 - Criação do component Menu.jsx
+- 12 - Criação do component Rodape.jsx
+- 13 - Estilização do nav, main e footer no App.css
+- 14 - Adicionados os componentes Menu e Rodape no App.jsx junto ao Outlet
+- 15 - Criação do arquivo listaProdutos.js
+- 16 - Carregando os dados da lista na página Produtos.jsx
+- 17 - Configurando EditarProduto.jsx para receber os dados da lista usando o useParams e useNavigate.
+- 18 - Feito import do Navigate no main.jsx e adicionado seu respectivo path

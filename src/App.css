@@ -40,3 +40,37 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Estilizaçao referente ao cp2-p1 */
+nav{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  height: 8vh;
+  background-color: royalblue;
+
+  & a{
+    color: white;
+    font-size: 1.5em;
+    padding: 15px;
+  }
+}
+
+main{
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+footer{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  background-color: darkblue;
+}
