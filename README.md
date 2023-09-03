@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 - 4 - Instalação do react-router-dom
 - 5 - Criação da pasta routes e suas respectivas rotas (EditarProdutos, Home, Error e Produtos)
 - 6 - Realizado os imports do createBrowserRouter e RouterProvider e as rotas no main.jsx
+- 7 - Configuração das rotas no main.jsx utilizando o createBrowserRouter e informando seus paths e adicionando o RouterProvider
